@@ -6,7 +6,7 @@
 
 Some common techniques used in spatial data analysis include;
 - spatial clustering, 
-- spatial regression, and 
+- spatial regression, &
 - spatial interpolation. 
 
 **Spatial clustering** Involves identifying groups of data points that are close to each other in space. 
